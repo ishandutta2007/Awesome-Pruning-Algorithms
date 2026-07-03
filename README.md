@@ -94,3 +94,14 @@ Deploying sparse networks across commercial production nodes requires balancing 
 5. Mishra, A., et al. (2021). Accelerating sparse deep neural networks on NVIDIA Ampere GPUs via 2:4 semi-structured patterns. *NVIDIA whitepaper architecture manifestos* [INDEX: 16].
 6. Sun, M., et al. (2024). A simple and effective pruning method for large language models. *International Conference on Learning Representations (ICLR)* [INDEX: 16].
 
+##  Star History
+<div align="center">
+<a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-Pruning-Algorithms&type=date&legend=bottom-right">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Pruning-Algorithms&type=date&theme=dark&legend=bottom-right" />
+<source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Pruning-Algorithms&type=date&legend=bottom-right" />
+<img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Pruning-Algorithms&type=date&legend=bottom-right" />
+</picture>
+</a>
+</div>
+
