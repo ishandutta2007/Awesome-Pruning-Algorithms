@@ -1,5 +1,10 @@
-# Awesome-Pruning-Algorithms
-## Pruning Algorithms in AI: History, Progression, Variants, & Applications
+# ✂️ Awesome-Pruning-Algorithms
+
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Pruning Algorithms Banner" width="100%">
+</p>
+
+## 🧠 Pruning Algorithms in AI: History, Progression, Variants, & Applications
 
 **Pruning Algorithms** represent a highly specialized family of hardware-aware model compression and optimization frameworks designed to eliminate redundant, non-essential parameters or architectural blocks from a neural network [INDEX: 16]. The primary objective of pruning is to reduce the computational complexity (FLOPs), memory footprint, and storage size of deep learning models without sacrificing their baseline cognitive reasoning capabilities [INDEX: 16]. 
 
@@ -7,7 +12,7 @@ By strategically setting low-impact network parameters to an absolute value of z
 
 ---
 
-## 1. The Macro Chronological Evolution
+## ⏳ 1. The Macro Chronological Evolution
 
 The technical optimization of network sparsification has transitioned from analytic second-order derivative estimation to heuristic magnitude sorting, moving toward hardware-fused semi-structured blocks and dynamic, activation-aware pruning routines.
 
@@ -28,7 +33,7 @@ flowchart LR
 
 ---
 
-## 2. Core Granularity & Structural Variants
+## 🧩 2. Core Granularity & Structural Variants
 
 Pruning methodologies are strictly categorized based on the geometric patterns and physical layouts of the parameter elements targeted for elimination [INDEX: 16].
 
@@ -40,7 +45,7 @@ Pruning methodologies are strictly categorized based on the geometric patterns a
 
 ---
 
-## 3. Training Training Dynamics & Pruning Schedules
+## ⚙️ 3. Training Dynamics & Pruning Schedules
 
 Depending on where the parameter elimination step intersects with the model optimization timeline, pruning schedules follow distinct operational pipelines [INDEX: 16].
 
@@ -52,7 +57,7 @@ Depending on where the parameter elimination step intersects with the model opti
 
 ---
 
-## 4. Production Engineering Challenges & Hardware Solutions
+## 💾 4. Production Engineering Challenges & Hardware Solutions
 
 Deploying sparse networks across commercial production nodes requires balancing algorithmic compression metrics against underlying silicon memory buses [INDEX: 16].
 
@@ -63,7 +68,7 @@ Deploying sparse networks across commercial production nodes requires balancing 
 
 ---
 
-## 5. Frontier Real-World AI Industrial Applications
+## 🚀 5. Frontier Real-World AI Industrial Applications
 
 | Application | First Used Year | First Used Paper / Source | Details |
 | :--- | :--- | :--- | :--- |
@@ -73,11 +78,11 @@ Deploying sparse networks across commercial production nodes requires balancing 
 
 ---
 
-## References
+## 📚 References
 1. LeCun, Y., Denker, J., & Solla, S. (1989). Optimal brain damage. *Advances in Neural Information Processing Systems (NeurIPS)*, 2 [INDEX: 16].
 2. Han, S., Pool, J., Tran, J., & Dally, W. (2015). Learning both weights and connections for efficient neural network. *Advances in Neural Information Processing Systems (NeurIPS)*, 28, 1135-1143 [INDEX: 16].
 3. Frankle, J., & Carbin, M. (2018). The lottery ticket hypothesis: Finding sparse, trainable neural networks. *International Conference on Learning Representations (ICLR)* [INDEX: 16].
 4. Hoefler, T., et al. (2021). Sparsity in deep learning: Pruning and growth for efficient inference and training. *Journal of Machine Learning Research*, 22(241), 1-124.
 5. Mishra, A., et al. (2021). Accelerating sparse deep neural networks on NVIDIA Ampere GPUs via 2:4 semi-structured patterns. *NVIDIA whitepaper architecture manifestos* [INDEX: 16].
-Sun, M., et al. (2024). A simple and effective pruning method for large language models. International Conference on Learning Representations (ICLR) [INDEX: 16].
+6. Sun, M., et al. (2024). A simple and effective pruning method for large language models. *International Conference on Learning Representations (ICLR)* [INDEX: 16].
 
