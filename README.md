@@ -12,7 +12,11 @@ By strategically setting low-impact network parameters to an absolute value of z
 The technical optimization of network sparsification has transitioned from analytic second-order derivative estimation to heuristic magnitude sorting, moving toward hardware-fused semi-structured blocks and dynamic, activation-aware pruning routines.
 
 ```mermaid
-[Analytical Second-Order (OBD, 1989)] ───> [Heuristic Magnitude Pruning (2015)] ───> [Semi-Structured 2:4 Pruning (2020)] ───> [Activation-Aware Sorting (Wanda, 2024+)](Hessian-Driven Matrix Overheads)            (Unstructured VRAM Bottlenecks)          (Hardware-Fused Tensor Core Accelerate)       (Zero-Shot Post-Training LLM Compression)
+flowchart LR
+    A["Analytical Second-Order (OBD, 1989)<br/>(Hessian-Based Pruning)"]
+    --> B["Magnitude-Based Pruning (2015)<br/>(Unstructured Weight Magnitude Thresholding)"]
+    --> C["Semi-Structured 2:4 Pruning (2020)<br/>(Hardware-Friendly Tensor Core Sparsity)"]
+    --> D["Activation-Aware Pruning (Wanda, 2024+)<br/>(Zero-Shot Post-Training LLM Compression)"]
 ```
 
 *   **The Analytical Second-Order Era (Optimal Brain Damage, LeCun et al., 1989)**
