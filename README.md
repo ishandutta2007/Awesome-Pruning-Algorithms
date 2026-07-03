@@ -1,7 +1,15 @@
 # ✂️ Awesome-Pruning-Algorithms
 
+<!-- SEO Meta Tags -->
+<meta name="description" content="A curated list of awesome neural network pruning algorithms, hardware-fused semi-structured blocks, magnitude-based sparsification, and zero-shot post-training LLM compression methods like Wanda." />
+<meta name="keywords" content="Neural Network Pruning, Model Compression, LLM Sparsification, Structured Pruning, Unstructured Pruning, 2:4 Sparsity, Wanda, Optimal Brain Damage, Lottery Ticket Hypothesis, Deep Learning Optimization" />
+
 <p align="center">
   <img src="assets/banner.svg" alt="Awesome Pruning Algorithms Banner" width="100%">
+</p>
+
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> <a href="https://github.com/ishandutta2007/Awesome-Pruning-Algorithms/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Pruning-Algorithms" alt="GitHub Stars"/></a> <a href="https://github.com/ishandutta2007/Awesome-Pruning-Algorithms/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Pruning-Algorithms" alt="GitHub Issues"/></a> <a href="https://github.com/ishandutta2007/Awesome-Pruning-Algorithms/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Pruning-Algorithms" alt="License"/></a>
 </p>
 
 ## 🧠 Pruning Algorithms in AI: History, Progression, Variants, & Applications
